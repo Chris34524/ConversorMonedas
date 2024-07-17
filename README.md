@@ -6,7 +6,7 @@ Este proyecto implementa un sistema donde se hace conversion de monedas.
 
 ## Funcionalidades
 
-## Configuración del Ambiente Java
+-- Configuración del Ambiente Java
 ## Creación del Proyecto
 ## Consumo de la API
 ## Análisis de la Respuesta JSON
